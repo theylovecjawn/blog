@@ -11,3 +11,12 @@ In this blog I will be talking about how I became to be the amzaing coder and en
 - I love spending time with friends.
 
 ![An image of spongebob](/assets/spongebob.png)
+
+
+<ul>
+    {% for post in site.posts %}
+    <li>
+    <a href= "/blog/{{ post.url }}"> {{post.title}}</a>
+    </li>
+    {% endfor %}
+</ul>
