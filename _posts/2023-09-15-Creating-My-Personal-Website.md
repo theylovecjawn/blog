@@ -6,7 +6,7 @@ When creating my personal website I was a newbie. Meaning that I had never worke
 Moving forward I was able to learn HTML and CSS, I even took and passed a certification to show that I had  passed it:
 
 
-![An image of my HTML and CSS certification](/assets/certiport.png)
+![An image of my HTML and CSS certification](/blog/assets/certiport.png)
 
  
 
