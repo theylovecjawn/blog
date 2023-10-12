@@ -38,12 +38,13 @@ while True:
             else: 
                 del todos[remove_input - 1] 
  ```
- ## This may look a little confusion but don't let all the code get to you.
+ ## This may look a little confusing but don't let all the code get to you.
 ---
 <p style="text-align: center;">- This part of the code is basically saying the code will run for ever.</p>
 <p style="text-align: center;">- It also is the part of the code that allows you to create new todos, and remove them aswell. It already has a number next to it due to the "enumerate" command.</p>
 
-
+---
+# Challenges
 <h4 style="text-align: center;">- I missed a day when doing the creation of the todo list, but I was able to come back and finish it in ONE DAY!!</h4>
 
 <h4 style="text-align: center;">- Some challenges I ran into include but are not limited to:</h4>
