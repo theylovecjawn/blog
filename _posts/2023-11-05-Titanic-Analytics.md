@@ -40,3 +40,4 @@ To complete this question I created a Bar Graph :
 
 In summary, the analysis of the Titanic dataset revealed that only 18.9% of males survived, and survivors paid significantly higher fares on average. Males traveling with at least one relative also tended to pay higher fares. These findings highlight the challenges faced by male passengers and the economic deaths among passengers during the Titanic's tragic fall.
 
+If you want to view my full code that created my graphs you can view them here: https://github.com/theylovecjawn/blog/blob/main/_posts/2023-11-05-Titanic-Analytics.md
