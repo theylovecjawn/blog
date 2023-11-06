@@ -16,7 +16,7 @@ The Titanic, a British passenger liner considered unsinkable, tragically sank in
 
 To complete this question I created a Pie Chart :
 
-![Pie Chart to show the Males that survived vs died.](image.png)
+![Pie Chart to show the Males that survived vs died.](/assets/image.png)
 
 - The data presented in the graph reveals that exactly 18.9% of Males that boarded the titanic Survived and 81.1% Died when the Titanic went down.
 ## Question 2. 
@@ -24,7 +24,7 @@ To complete this question I created a Pie Chart :
 
 To complete this question I created a Bar Graph :
 
-![Bar graph showing the average of the fares people paid based on thier life retention. ](image-2.png)
+![Bar graph showing the average of the fares people paid based on thier life retention. ](/assets/image-2.png)
 
 One key observation from the graph is that the amount paid in fares for the Survived is almost twice the amount paid in fares for the people that Died.
 ## Question 3. 
@@ -32,7 +32,7 @@ One key observation from the graph is that the amount paid in fares for the Surv
 
 To complete this question I created a Bar Graph :
 
-![This bar graph shows the amount paid in fares for males that had another relative with them.](image-1.png)
+![This bar graph shows the amount paid in fares for males that had another relative with them.](/assets/image-1.png)
 
 - One key observation from the graph is if the male had parch with them then they would end up paying more money than if they didn't
 
