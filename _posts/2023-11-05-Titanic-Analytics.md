@@ -16,7 +16,7 @@ The Titanic, a British passenger liner considered unsinkable, tragically sank in
 
 To complete this question I created a Pie Chart :
 
-![Pie Chart to show the Males that survived vs died.](/assets/image.png)
+![Pie Chart to show the Males that survived vs died.](/blog/assets/image.png)
 
 - The data presented in the graph reveals that exactly 18.9% of Males that boarded the titanic Survived and 81.1% Died when the Titanic went down.
 ## Question 2. 

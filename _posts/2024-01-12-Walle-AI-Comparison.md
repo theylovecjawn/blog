@@ -4,7 +4,7 @@
 
 Within WALL-E, AI takes the center stage, it shows a future where humans relationship with technology reaches new heights! This blog post will dive deep into the role of AI within the movie, this is whee we will be exploring human-AI interactions, and societal affects.
 
-![Pie Chart to show the Males that survived vs died.](/assets/walle.jpeg)
+![Pie Chart to show the Males that survived vs died.](/blog/assets/walle.jpeg)
 
 ## AI in WALL-E
 

@@ -10,7 +10,7 @@ In this blog I will be talking about how I became to be the amzaing coder and en
 - I love traveling
 - I love spending time with friends.
 
-![An image of spongebob](/assets/spongebob.png)
+![An image of spongebob](/blog/assets/spongebob.png)
 
 
 <ul>
