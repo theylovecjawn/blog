@@ -8,6 +8,8 @@ Flask, a web framework written in Python, has been a game-changer in my journey 
 
 Flask goes above the static nature of HTML & CSS by providing a structure for building web applications. It allows developers to handle user inputs, interact with databases, and generate content. Flask's simplicity and flexibility make it a great choice for projects ranging from small --> full-fledged applications.
 
+
+![Flask picture with python logo aswell](/blog/assets/flask.jpeg)
 ### Additional Technologies/Languages
 
 While Flask primarily uses Python for server-side scripting, it often goes hand and hand with:
